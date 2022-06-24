@@ -6,6 +6,9 @@ const Header = () => {
     return (
         <>
            <header className="container">
+
+
+                    <div className="row"></div>
               
                     <div className="row d-flex justify-content-between pt-4 px-2">
                         <div className="col-md-2 col-4">
@@ -14,7 +17,7 @@ const Header = () => {
                        
                         </div>
 
-                        <div className="col-md-2 col-4 me-lg-5">
+                        <div className="col-md-2 col-4 ">
                             <ConnectMarketplace></ConnectMarketplace>
                         </div>
                     </div>

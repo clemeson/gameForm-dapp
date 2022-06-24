@@ -17,7 +17,13 @@ const Marketplace = (props) => {
                 <Header></Header>
             </div>
             <div className="container mt-4 ">
-                <div className="row mb-5 gap-4">
+
+               
+                    <div className="row d-flex justify-content-center align-items-center text-center">
+                        <h4 className="col-md-12 h4 my-5  fw-bolder fs-1">Compre sua NFT agora mesmo, e não fique para atrás.</h4>
+                    </div>
+               
+                <div className="row mb-5 gap-4 ms-lg-5">
                     {
                         mocks.nft.map(i => 
                             <a className="col-md-2 d-flex flex-wrap bg-dark px-4 pt-4" onClick={() => setPrice(i.price)}>
@@ -47,7 +53,7 @@ const Marketplace = (props) => {
         <div className=" content  container-bg-5">
             <div className="container row mx-auto">
             <Selo></Selo>
-            </div>
+            </div >
                 
             </div>
            

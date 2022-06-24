@@ -1,0 +1,64 @@
+{
+    "nft": [
+        {
+            "name":"NFT",
+            "img":"https://cdn.pixabay.com/photo/2022/02/18/16/09/ape-7020995_960_720.png",
+            "price": "0.001"
+        },
+        {
+            "name":"NFT",
+            "img":"https://cdn.pixabay.com/photo/2022/02/23/15/56/technology-7030913_960_720.png",
+            "price": "0.002"
+        },
+        {
+            "name":"NFT",
+            "img":"https://cdn.pixabay.com/photo/2022/05/13/16/02/ghost-7194081_960_720.jpg",
+            "price": "0.003"
+        },
+        {
+            "name":"NFT",
+            "img":"https://cdn.pixabay.com/photo/2016/06/15/16/00/woman-1459220_960_720.png",
+            "price": "0.001"
+        },
+        {
+            "name":"NFT",
+            "img":"https://cdn.pixabay.com/photo/2017/08/30/12/45/girl-2696947_960_720.jpg",
+            "price": "0.001"
+        },
+        {
+            "name":"NFT",
+            "img":"https://m.media-amazon.com/images/M/MV5BMWUzZmZiOTUtZTk4OS00N2MyLTk5MzAtZWVkY2FmN2QyYjQ4XkEyXkFqcGdeQXVyNDY2NDU1MzA@._V1_SY317_CR5,0,214,317_AL_.jpg",
+            "price": "0.001"
+        },
+        {
+            "name":"NFT",
+            "img":"https://m.media-amazon.com/images/M/MV5BZmI1ZGRhNDYtOGVjZC00MmUyLThlNTktMTQyZGE3MzE1ZTdlXkEyXkFqcGdeQXVyNDE5MTU2MDE@._V1_SY317_CR2,0,214,317_AL_.jpg",
+            "price": "0.01"
+        },
+        {
+            "name":"NFT",
+            "img":"https://m.media-amazon.com/images/M/MV5BYmQ4OWQ4OTQtYWFjYy00OGEyLTk4OTUtMWIxMWZiMmI5ODcyXkEyXkFqcGdeQXVyMzY0MTE3NzU@._V1_SY317_CR4,0,214,317_AL_.jpg",
+            "price": "0.1"
+        },
+        {
+            "name":"NFT",
+            "img":"https://m.media-amazon.com/images/M/MV5BMGU4ODVkZDYtYjNiNS00YmFiLWFmOWQtODM2NDRjZDAxNzliXkEyXkFqcGdeQXVyMTI0MzA4NTgw._V1_SX214_CR0,0,214,317_AL_.jpg",
+            "price": "0.3"
+        },
+        {
+            "name":"NFT",
+            "img":"https://m.media-amazon.com/images/M/MV5BMTc3NWY2ZTMtNTNlZC00MWM2LWI5MzYtMmU1YzY0ODk5ZjQ1XkEyXkFqcGdeQXVyODA2MTkwODk@._V1_SX214_CR0,0,214,317_AL_.jpg",
+            "price": "0.01"
+        },
+        {
+            "name":"NFT",
+            "img":"https://m.media-amazon.com/images/M/MV5BMjMyZDY5NTctMzQ0Ny00ZTU0LWE1ZDYtNDYzMjAxYjA1ZGYxXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_SX214_CR0,0,214,317_AL_.jpg",
+            "price": "0.001"
+        },
+        {
+            "name":"NFT",
+            "img":"https://m.media-amazon.com/images/M/MV5BMjIwNTM0Mzc5MV5BMl5BanBnXkFtZTgwMDk5NDU1ODE@._V1_SX214_CR0,0,214,317_AL_.jpg",
+            "price": "0.001"
+        }
+    ]
+}

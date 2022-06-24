@@ -30,6 +30,9 @@ export async function GetWalletProvider() {
     const provider = new ethers.providers.Web3Provider(window.ethereum, 'any');
 
     
+    //evento network dispara todas as vezes que o usuario muda de rede na carteira
+    //é uma boa pratica de segurança para o mesmo nao mudar a rede enviar seus fundos para uma carteira que não exista naquela rede
+    // e perder seus fundos
     provider.on('network', (newNetwork, oldNetwork) => {
         if (oldNetwork) window.location.reload();
     })
@@ -42,7 +45,7 @@ export async function GetWalletProvider() {
 
 
 
-   
+   //conectar marketplace  
 export function ConnectMarketplace(){
 
     const history = useHistory();
@@ -59,7 +62,7 @@ export function ConnectMarketplace(){
 
    return (
        <>
-        <button type="button" className="btn btn-primary fs-5" onClick={() => connection()}>Market NFT</button>
+        <button type="button" className="btn btn-primary fs-5 " onClick={() => connection()}>Market NFT</button>
        </>
    )
 }

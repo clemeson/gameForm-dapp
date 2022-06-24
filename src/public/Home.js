@@ -350,6 +350,14 @@ const Home = () => {
                     </div>
                 </div>
 
+                
+        <div className=" content  container-bg-5">
+            <div className="container row mx-auto">
+            <Selo></Selo>
+            </div>
+       
+        </div>
+                
               
                 <Footer></Footer>
 

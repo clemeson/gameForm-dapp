@@ -14,7 +14,7 @@ const Header = () => {
                        
                         </div>
 
-                        <div className="col-md-2 col-4">
+                        <div className="col-md-2 col-4 me-lg-5">
                             <ConnectMarketplace></ConnectMarketplace>
                         </div>
                     </div>
